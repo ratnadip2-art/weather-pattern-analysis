@@ -1,0 +1,6 @@
+{
+  "name": "Weather Pattern Analysis Dashboard",
+  "description": "An intermediate weather pattern platform analyzing temperature trends, barometric systems, precipitation profiles, and anomalies with server-side Gemini meteorological assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
